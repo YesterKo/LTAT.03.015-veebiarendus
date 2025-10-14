@@ -7,7 +7,6 @@ Link figma prototüübile: https://www.figma.com/proto/7HUYyygAgX9WZGodQwG50e/Fo
 ## Kasutatud pildid
 
 - https://www.pexels.com/photo/red-waterfront-houses-reflecting-in-calm-water-33760474/
-- https://www.pexels.com/video/vibrant-nightlife-in-tokyo-shibuya-crossing-30975002/
 - https://www.pexels.com/photo/smiling-woman-in-red-shirt-indoors-33272514/
 - https://www.pexels.com/photo/grey-heron-amidst-reeds-in-estonian-wetlands-34155620/
 - https://www.pexels.com/photo/stylish-young-woman-in-denim-dress-outdoors-34207842/
